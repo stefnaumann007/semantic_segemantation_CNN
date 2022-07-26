@@ -1,2 +1,2 @@
-# semntig_sgemantation_CNN
+# semntic_sgemantation_CNN
 semantic Segmentaion with convoultional NeuralNetworks
